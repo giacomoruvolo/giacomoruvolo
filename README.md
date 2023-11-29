@@ -27,6 +27,7 @@ I am Giacomo, Computer Engineering Student from Catania - Italy, interested in i
 
 ## 📜 Certifications
 * **EsaBac**: Released by Ministère de l'Éducation nationale (France) in July 2018
+* **CEFR Level B1**: Released by Cambridge University Press & Assessment English in 2017
 
 ## 🎓 Education
 * **2018/expected completion 2024**: **Bachelor Degree** in Computer Engineering at Università di Catania.

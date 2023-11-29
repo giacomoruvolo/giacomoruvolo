@@ -5,7 +5,7 @@ I am Giacomo, Computer Engineering Student from Catania - Italy, interested in i
 
 ## 🏢 Jobs and Projects
 
-**Freelance** | Web Developer - IT Consultant | January 2017 - Present
+* **Freelance** | Web Developer - IT Consultant | January 2017 - Present
 
   - **Web Developer - Joomla & Wordpress**
   
@@ -23,7 +23,7 @@ I am Giacomo, Computer Engineering Student from Catania - Italy, interested in i
 
   * **[Etna Chapter Italy #7292](https://www.etnachapter.it/)** | Web Developer & Webmaster |
 
-**Parafarmacia Naxos** | CEO | December 2019 - Present
+* **Parafarmacia Naxos** | CEO | December 2019 - Present
 
 ## 📜 Certifications
 * **EsaBac**: Released by Ministère de l'Éducation nationale (France) in July 2018

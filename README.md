@@ -26,7 +26,7 @@ I am Giacomo, Computer Engineering Student from Catania - Italy, interested in i
 * **[Parafarmacia Naxos](https://www.parafarmacianaxos.it/)** | CEO | December 2019 - Present
 
 ## 📜 Certifications
-* **EsaBac**: Released by Ministère de l'Éducation nationale (France) in July 2018
+* **EsaBac Level B2**: Released by Ministère de l'Éducation nationale (France) in July 2018
 * **CEFR Level B1**: Released by Cambridge University Press & Assessment English in 2017
 
 ## 🎓 Education

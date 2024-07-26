@@ -8,10 +8,12 @@ I am Giacomo, Computer Engineering Student from Catania - Italy, interested in i
 * **Freelance** | Web Developer - IT Consultant | January 2017 - Present
 
   - **Web Developer - Joomla & Wordpress**
-  
+    - **[Harley-Davidson Catania](https://www.harley-davidson-catania.it/)**
+    - **[Taormina Rooms](https://www.taorminarooms.com/)**
     - **[Centro Medico Josema](https://www.centromedicojosema.it/)**
     - **[John Lord](https://www.johnlord.it/)**
-    - **[Liuc FinClub](https://www.liucfinclub.com/)**
+    - **[Liuc FinClub](https://www.liucfinclub.com/)** - DEPRECATED
+    - **[VIP Sailing Taormina](https://www.vipsailingtaormina.com/ )** - DEPRECATED
     - **[Parafarmacia Naxos](https://www.parafarmacianaxos.it/)**
 
   * **[Ducati Catania & Ducati Messina](https://www.ducaticatania.it/)** | Webmaster & IT Consultant |

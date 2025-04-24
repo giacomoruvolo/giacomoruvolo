@@ -1,29 +1,35 @@
 # printf("My name is Giacomo\n);
 
-I am Giacomo, Computer Engineering Student from Catania - Italy, interested in innovation, new technologies and business.
+I am a Computer Engineer from currently living in Milan. I hold a Bachelor’s degree in Computer Engineering and I’m currently pursuing a Master’s degree in Computer Science and Engineering at Politecnico di Milano, with a focus on ICT Engineering, Business, and Innovation.
+
+I have a strong passion for innovation, new technologies, and business. I specialize in Web Development (HTML, CSS, PHP, GitHub) and IT consulting for SMEs. I am an insatiable explorer, always eager to get my hands dirty.
+
+Let’s get started!
 
 
 ## 🏢 Jobs and Projects
 
 * **Freelance** | Web Developer - IT Consultant | January 2017 - Present
 
-  - **Web Developer - Joomla & Wordpress**
-    - **[Harley-Davidson Catania](https://www.harley-davidson-catania.it/)**
+  - **Web Developer - Joomla & Wordpress** 
+    - **[Hotel La Rusticana](https://hotellarusticana.it/)**
     - **[Taormina Rooms](https://www.taorminarooms.com/)**
     - **[Centro Medico Josema](https://www.centromedicojosema.it/)**
     - **[John Lord](https://www.johnlord.it/)**
+    - **[Parafarmacia Naxos](https://www.parafarmacianaxos.it/)**
+    - **[Harley-Davidson Catania](https://www.harley-davidson-catania.it/)** - DEPRECATED
     - **[Liuc FinClub](https://www.liucfinclub.com/)** - DEPRECATED
     - **[VIP Sailing Taormina](https://www.vipsailingtaormina.com/ )** - DEPRECATED
-    - **[Parafarmacia Naxos](https://www.parafarmacianaxos.it/)**
+    
 
   * **[Ducati Catania & Ducati Messina](https://www.ducaticatania.it/)** | Webmaster & IT Consultant |
       * Events organised:
         - Ducati Days 2021 - Autodromo di Pergusa
         - Ducati Days 2023 - Autodromo di Pergusa
 
-  * **[Harley-Davidson Catania & Harley-Davidson Messina](https://www.harley-davidson-catania.it/)** | IT Consultant |
-
   * **[Etna Chapter Italy #7292](https://www.etnachapter.it/)** | Web Developer & Webmaster |
+
+  * **[Harley-Davidson Catania & Harley-Davidson Messina](https://www.harley-davidson-catania.it/)** | IT Consultant | - *ENDED*
 
 * **[Parafarmacia Naxos](https://www.parafarmacianaxos.it/)** | CEO | December 2019 - Present
 
@@ -32,7 +38,8 @@ I am Giacomo, Computer Engineering Student from Catania - Italy, interested in i
 * **CEFR Level B1**: Released by Cambridge University Press & Assessment English in 2017
 
 ## 🎓 Education
-* **2018/expected completion 2024**: **Bachelor Degree** in Computer Engineering at Università di Catania.
+* **2025/expected graduation 2027**: **Master Degree** in Computer Engineering at Politecnico di Milano - ICT Engineering, Business, and Innovation.
+* **2018/25**: **Bachelor Degree** in Computer Engineering at Università di Catania.
 * **2015/2018**: **Franco-Italian secondary school double degree** Liceo Classico Europeo at Convitto Nazionale Mario Cutelli.
 
 ## 🌟 Hobbies

@@ -1,6 +1,6 @@
 # printf("My name is Giacomo\n);
 
-I am a Computer Engineer from currently living in Milan. I hold a Bachelor’s degree in Computer Engineering and I’m currently pursuing a Master’s degree in Computer Science and Engineering at Politecnico di Milano, with a focus on ICT Engineering, Business, and Innovation.
+I am a Computer Engineer currently living in Milan. I hold a Bachelor’s degree in Computer Engineering and I’m currently pursuing a Master’s degree in Computer Science and Engineering at Politecnico di Milano, with a focus on ICT Engineering, Business, and Innovation.
 
 I have a strong passion for innovation, new technologies, and business. I specialize in Web Development (HTML, CSS, PHP, GitHub) and IT consulting for SMEs. I am an insatiable explorer, always eager to get my hands dirty.
 
